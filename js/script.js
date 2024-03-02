@@ -2040,3 +2040,20 @@
 //   }
 //   // Change code above this line
 // }
+
+// class Car {
+//   constructor({ brand, model, price }) {
+//     this.brand = brand;
+//     this.model = model;
+//     this.price = price;
+//   }
+//   // Change code below this line
+//   getPrice() {
+//     return this.price;
+//   }
+//   changePrice(price) {
+//     return (this.price = price);
+//   }
+
+//   // Change code above this line
+// }
